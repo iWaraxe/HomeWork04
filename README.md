@@ -1,5 +1,5 @@
 # Lecture 4
-## Homework: 8/17/2023
+## Homework: 8/11/2023
 
 ### Exercise 1: Abstract Classes
 **Task:** Create an abstract class named "Vehicle" with attributes `maxSpeed` and `fuelType`. Define a method `describeVehicle()` that each subclass must implement. Create subclasses "Car" and "Boat" that extend "Vehicle" and implement the `describeVehicle()` method.
